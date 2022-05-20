@@ -25,7 +25,6 @@ if s <= 50:
 if s >= 50:
     print("Você passou, Parabéns 😄")
 
-
 if s == 50:
     print("Você passou, Parabéns 😄")
     
